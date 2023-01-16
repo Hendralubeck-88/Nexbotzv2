@@ -13,7 +13,7 @@ const message = {
                 {
                     urlButton: {
                         displayText: 'Customer Service',
-                        url: 'wa.me/6288279268363',
+                        url: 'wa.me/6281227607864',
                     }
                 },
                 {
