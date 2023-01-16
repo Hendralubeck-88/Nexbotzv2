@@ -27,12 +27,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/saep.02'
-global.syt = 'https://youtube.com/channel/UC28pUSJ1MyZhqGL_lamNQRw'
-global.sgh = 'https://github.com/SaepEp'
-global.sgc = 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
-global.swa = 'wa.me/628812743180'
-global.swb = 'https://discord.gg/4HvezMAw'
+global.sig = 'https://vt.tiktok.com/ZS8BBfPhE/'
+global.syt = 'https://youtube.com/@hidayah-99'
+global.sgh = 'https://chat.whatsapp.com/KZKNlYxG1gpJDrkKwuOXm5'
+global.sgc = 'https://chat.whatsapp.com/KZKNlYxG1gpJDrkKwuOXm5'
+global.swa = '6281227607864'
+global.swb = 'https://youtube.com/@hidayah-99'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
@@ -44,18 +44,19 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
-global.namebot = 'NexBotz'
-global.nameown = 'NexEp'
+global.nomorbot = '6285767380127'
+
+global.nomorown = '6281227607864'
+global.namebot = 'SENPAI'
+global.nameown = 'NoName'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288221354110'],
-  ['6283891677178'],
-  ['18126338970'],
-  ['628812743180', 'NexEp', true]
+  ['6281227607864'],
+  ['6281227607864'],
+  ['6281227607864'],
+  ['6281227607864', 'HENDRA LUBECK🇮🇩', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -105,16 +106,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'NexEp'
-global.wm3 = 'NexBotz | By NexEp'
+global.wm = 'HENDRA LUBECK🇮🇩|no bot 6285767380127' //Main Watermark
+global.wm2 = 'HENDRA LUBECK🇮🇩|no bot 6285767380127'
+global.wm3 = 'HENDRA LUBECK🇮🇩 | HENDRA LUBECK🇮🇩'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'NexEp' 
-global.packname = 'NexEp'
+global.author = 'HENDRA LUBECK🇮🇩' 
+global.packname = 'HENDRA LUBECK🇮🇩'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Juli 11 2022'
+global.ultahowner = 'mei 24 2023'
 
 
 /*============== LOGO ==============*/
@@ -131,11 +132,11 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'NexEp'
+global.nameowner = 'HENDRA LUBECK🇮🇩'
 global.umurowner = '19'
-global.asalowner = 'Jawa Barat, Bekasi'
-global.nomorowner = 'wa.me/628812743180'
-global.pacarowner = 'Kaede Hitotsuba'
+global.asalowner = 'Sumatra'
+global.nomorowner = 'wa.me/6281227607864'
+global.pacarowner = '-'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
