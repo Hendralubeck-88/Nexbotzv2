@@ -14,5 +14,4 @@ RUN npm start
 
 COPY . .
 
-CMD ["node", "."]
 
