@@ -12,6 +12,4 @@ COPY package.json .
 
 RUN npm start
 
-COPY . .
-
 
