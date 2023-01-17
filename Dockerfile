@@ -5,13 +5,17 @@ RUN apt-get update && \
   ffmpeg \
   imagemagick \
   webp && \
-  pkg install yarn \
-  yarn \
   apt-get upgrade -y && \
   rm -rf /var/lib/apt/lists/*
 
 COPY package.json .
 
-RUN npm start
+RUN npm install
+
+COPY . .
+
+CMD ["node", "."]
+
+
 
 
